@@ -1,0 +1,182 @@
+id,Name,Species,Affiliation_id,Classification,Status
+1,Acromantula,Spider,1,Beast XXXX,Extant
+2,Alizor of Westacottus,N/A,1,N/A,Extant
+3,Ashwinder,Snake,2,Beast XXX,Extant
+4,Augurey,Bird,1,Beast XX,Extant
+5,Basilisk,Snake,3,Beast XXXXX,Extant
+6,Bicorn,N/A,1,N/A,Extant
+7,Billywig,Insect,1,Beast XXX,Extant
+8,Blast-Ended Skrewt,Magical-Hybrid,4,Beast,Unkown
+9,Bowtruckle,N/A,5,Beast XX,Extant
+10,Briar Toad,Toad,1,N/A,Extant
+11,Bundimun,N/A,1,Beast XXX,Extant
+12,Centaur,Magical-Creature,1,Beast XXXX,Extant
+13,Chimaera,Magical-Beast,1,Beast XXXXX,Extant (Rare)
+14,Chizpurfle,N/A,1,Beast XX,Extant
+15,Chupacabra,Magical-Beast,3,Beast,Extant
+16,Clabbert,Magical-Beast,1,Beast XX,Extant
+17,Coco Rumsey Catcher,Magical-Creature,1,N/A,Extant
+18,Cocoon Spider,Spider,1,N/A,Extant
+19,Crup,Wizard-bred Dog,6,Beast XXX,Extant
+20,Daraliznof Freaazer,Magical-Creature,1,N/A,Extant
+21,Dark Mongrel,N/A,1,N/A,N/A
+22,Demiguise,Magical-Beast,1,Beast XXXX,Extant
+23,Diricawl,Magical-Bird,1,Beast XX,Extant (Believed Extinct)
+24,Double-ended newt,Magical-Beast,1,Beast,Extant
+25,Doxy,Fairy,1,Beast XXX,Extant
+26,Doxy Queen,Fairy,1,N/A,Extant
+27,Antipodean Opaleye,Dragon,1,Beast XXXXX,Extant
+28,Catalonian Fireball,Dragon,1,Beast XXXXX,Unkown
+29,Chinese Fireball,Dragon,7,Beast XXXXX,Extant
+30,Common Welsh Green,Dragon,7,Beast XXXXX,Extant
+31,Hebridean Black,Dragon,8,Beast XXXXX,Extant
+32,Hungarian Horntail,Dragon,7,Beast XXXXX,Extant
+33,Norwegian Ridgeback,Dragon,7,Beast XXXXX,Extant
+34,Peruvian Vipertooth,Dragon,1,Beast XXXXX,Extant
+35,Portuguese Long-Snou,Dragon,1,Beast XXXXX,Unkown
+36,Romanian Longhorn,Dragon,1,Beast XXXXX,Endangered
+37,Swedish Short-Snout,Dragon,7,Beast XXXXX,Extant
+38,Ukrainian Ironbelly,Dragon,1,Beast XXXXX,Extant
+39,Water dragon,Dragon,1,Beast,Extant
+40,Dragon toad,Toad,1,Beast,Extant
+41,Dugbog,Magical-Beast,1,Beast XXX,Extant
+42,Erkling,Elfish Magical-Beast,1,Beast XXXX,Extant
+43,Erumpent,African Magical-Beast,1,Beast XXXX,Extant
+44,Fairy,Humanoid Magical Beast,1,Beast XX,Extant
+45,Fenny snake,Snake,1,N/A,Extant
+46,Fire Crab,Crab Magical-Beast,2,Beast XXX,Endangered
+47,Fire slug,Slug,2,N/A,Extant
+48,Firedrake,Flying Lizard,2,Beast,Extant
+49,Firetrail Snail,Snail,1,N/A,Extant
+50,Flailtail Snail,Snail,1,N/A,Extant
+51,Flesh-Eating Slug,Dark Magical-Creature,3,N/A,Extant
+52,Flobberworm,Magical-Worm,1,Beast X,Extant
+53,Flying Seahorse,Seahorse,1,N/A,Extant
+54,Fwooper,African Magical-Bird,1,Beast XXX,Extant
+55,Ghoul,Magical-Beast,1,Beast XX,Extant
+56,Chameleon Ghoul,Ghoul,3,Beast XX,Extant
+57,Giant Albino Rat,Giant Rat,1,N/A,Extant
+58,Giant Black Spider,Spider,3,N/A,Extant
+59,Dung beetle,Scarab Beetle,1,N/A,Extant
+60,Giant Orange Snail,Snail,1,Beast XXX,N/A
+61,Giant Purple Toad,Toad,1,Beast,Extant
+62,Giant Rat,Rat,1,N/A,Extant
+63,Giant Silk-Spitting Spider,Spider,1,N/A,Extant
+64,Giant Spider,Spider,1,N/A,Extant
+65,Giant Squid,Gigantic cephalopod,9,Beast,Extant
+66,Gigantic serpent,Snake,44,N/A,N/A
+67,Giant Venomous Spider,Spider,1,N/A,N/A
+68,Glow Bug,Magical-Worm,1,Beast,Extant
+69,Glumbumble,Magical-Insect,1,Beast XXX,Extant
+70,Gnome,Magical-Beast,1,Beast XX,Extant
+71,Golden Snidget,Magical-Bird,10,Beast XXXX,Endangered
+72,Graphorn,Magical-Beast,11,Beast XXXX,Endangered(1920's) Extant(2020's)
+73,Griffin,Magical-Beast,1,Beast XXXX,Extant
+74,Grindylow,Water Demon,"12,3",Beast XX,Extant
+75,Gringwart Goff,Magucal-Creature,1,N/A,Extant
+76,Hidebehind,Humanoid Magical-Creature,1,Beast XXXX,Extant
+77,Hinkypunk,Magical-Beast,3,Beast,Extant
+78,Hippocampus,Magical-Water-Beast,"12,3",Beast XXX,Extant
+79,Hippogriff,Magical-Beast,1,Beast XXX,Extant
+80,Hodag,Frog,1,Beast XXX,Extant
+81,Hoo-hoo,Firebird,1,N/A,Extant
+82,Horklump,Magical-Beast,1,Beast X,Extant
+83,Horned Serpent,Magical-Snake,13,Beast XXXXX,Extant
+84,Horned slug,Slug,1,N/A,Extant
+85,Imp,Magical-Beast,1,Beast XX,Extant
+86,Imperial Dragonfly,Dragonfly,1,N/A,Extant
+87,Jackalope,North American Magical,1,Beast,Extant
+88,Jarvey,Magical-Beast,1,Beast XXX,Extant
+89,Jewel Encrusted Tortoise,Tortoise,1,N/A,N/A
+90,Jobberknoll,Bird,1,Beast XX,Extant
+91,Kappa,Japanese Water Demon,3,Beast XXXX,Extant
+92,Kelpie,Water Demon,14,Beast XXXX,Extant
+93,Knarl,Magical-Beast,1,Beast XXX,Extant
+94,Kneazle,Cat Magical-Beast,6,Beast XXX,Extant
+95,Large spider,Spider,1,N/A,Extant
+96,Leprechaun,Magical-Beast,15,Beast XXX,Extant
+97,Lethifold,Magical-Beast,3,Beast XXXXX,Extant
+98,Leucrotta,Magical-Beast,1,Beast,Extant
+99,Limax,Magical-Creature,1,N/A,Extant
+100,Lobalug,Aquatic Magical-Beast,12,Beast XXX,Extant
+101,Mackled Malaclaw,Magical-Beast,1,Beast XXX,Extant
+102,Manticore,Magical-Beast,3,Beast XXXXX,Extant
+103,Marmite,Magical-Beast,1,Beast,Extant
+104,Matagot,Magical-Beast,16,Beast,Extant
+105,Merpeople,Magical-Beast,1,Beast XXXX,Extant
+106,Merrow,Irish-Merpeople,1,Beast XXXX,Extant
+107,Selkie,Scottish-Merpeople,1,Beast XXXX,Extant
+108,Siren,Merpeople,1,Beast XXXX,Extant
+109,Miraf Leldendi,Magical-Creature,1,N/A,Extant
+110,Moke,Magical-Lizard,1,Beast XXX,Extant
+111,Mooncalf,Magical-Beast,1,Beast XX,Extant
+112,Mortis Bat,Bat,1,N/A,Extant
+113,Murtlap,Magical-Beast,14,Beast XXX,Extant
+114,Muskrill,Magical-Beast,1,Beast,Extant
+115,Nazzle Mumph,Magical-Creature,1,N/A,Extant
+116,Niffler,Magical-beast,1,Beast XXX,Extant
+117,Nogtail,Demon,3,Beast XXX,Extant
+118,Nundu,African Magical-Beast,1,Beast XXXXX,Extant
+119,Occamy,Serpentine Magical-Beast,1,Beast XXXX,Extant
+120,Oni,Magical-Beast,1,Beast,Extant
+121,Panic Spider,Spider,1,N/A,Extant
+122,Phoenix,Magical-Bird,17,Beast XXXX,Extant
+123,Pixie,Magical-Beast,1,Beast XXX,Extant
+124,Giant Plague Rat,Rat,1,N/A,Extant
+125,Plimpy,Magical-Fish,12,Beast XXX,Extant
+126,Pogrebin,Russian Demon,3,Beast XXX,Extant
+127,Puffskein,Magical-Beast,1,Beast XX,Extant
+128,Appaloosa Puffskein,Puffskein,1,Beast XX,Extinct
+129,Fanged Puffskein,Puffskein,1,Beast,Extant
+130,Pygmy Puff,Puffskein,1,Beast XX,Extant
+131,Pygmy Kraken,Magical-Beast,1,Beast,N/A
+132,Qilin,Magical-Beast,1,Beast,Extant
+133,Quintaped,Magical-Beast,1,Beast XXXXX,Extant
+134,Ramora,Magical-Fish,1,Beast XX,Extant
+135,Red Cap,Magical-Beast,1,Beast XXX,Extant
+136,Re'em,Magical-Beast,1,Beast XXXX,Extant
+137,Runespoor,Snake,18,Beast XXXX,Extant
+138,Fire Dwelling Salamander,Salamander,2,Beast XXX,Extant
+139,Amazonian Salamander,Salamander,2,Beast XXX,Extant
+140,Frost Salamander,Salamander,19,Beast XXX,Extant
+141,Peruvian Salamander,Salamander,2,Beast XXX,Extant
+142,Sea serpent,Aquatic Magical-Beast,1,Beast XXX,Extant
+143,Selma,Serpentine Magical-Beast,20,Beast,Extant
+144,Shelliferous Drogodflikerous,Magical-Creature,1,N/A,Extant
+145,Shrake,Magical-Creature,1,Beast XXX,Extant
+146,Six-legged panda pig,Magical-Beast,1,Beast,Extant
+147,Snallygaster,Magical-Beast,1,Beast XXXX,Extant
+148,Sphinx,Magical-Beast,1,Beast XXXX,Extant
+149,Spitting snake,Snake,1,N/A,Extant
+150,Streeler,Snail,1,Beast XXX,Extant
+151,Swooping Evil,Dark Magical-Creature,3,Beast,Extant
+152,Tebo,Magical Warthog,1,Beast XXXX,Extant
+153,Three-headed dog,Magical-Beast,1,Beast,Extant
+154,Three toed tree toad,Toad,1,N/A,Extant
+155,Thunderbird,Phoenix,1,Beast XXXX,Extant
+156,Thornback,Spider,1,Beast,Extant
+157,Troll,Magical-Beast,20,Beast XXXX,Extant
+158,Forest troll,Troll,1,Beast XXXX,Extant
+159,Mountain troll,Troll,1,Beast XXXX,Extant
+160,River troll,Troll,14,Beast XXXX,Extant
+161,Troll of Nadroj,Troll,1,Beast XXXX,Extant
+162,Trollcleg,Magical-Fly,1,N/A,Extant
+163,Trollwig,Magical-Parasite,1,N/A,Extant
+164,Unicorn,Horse,1,Beast XXXX,Extant
+165,Valcore,Magical Creature,1,N/A,Extant
+166,Vampyr Mosp,Magical-Hybrid,1,Beast,Extant
+167,Venomous Scurriour,Spider,1,Beast,Extant
+168,Venomous Silk-Spitting Spider,Spider,1,N/A,Extant
+169,Wampus cat,Magical-Cat,1,Beast XXXXX,Extant
+170,Water dragon parasite,Magical-Creature,1,Beast,Extant
+171,Werewolf,Human/Wolf,"21,22",Beast XXXXX,Extant
+172,White River Monste,Magical-Fish,1,N/A,Extant
+173,Wide-mouth toad,Toad,1,N/A,Extant
+174,Winged horse,Magical Horse,1,Beast XX-XXXX,Extant
+175,Abraxan,Winged Horse,"23,24",Beast XX-XXXX,Extant
+176,Aethonan,Winged Horse,1,Beast XX-XXXX,Extant
+177,Granian,Winged Horse,1,Beast XX-XXXX,Extant
+178,Thestral,Winged Horse,"43,3",Beast XXXX,Extant
+179,Wyvern,Wyvern,1,Beast,Extant
+180,Yeti,Troll,1,Beast XXXX,Extant
+181,Zouwu,Magical-Beast,1,Beast,Extant

@@ -1,0 +1,57 @@
+Name,Gender,BloodStatus,Species,House_id,Affiliation_id,Wand,Description
+Harry Potter,Male,Half-Blood,Human,1,"25, 26, 27, 28,10","11"", Holly, Phoenix Feather",The main protagonist of the series a young wizard who survived an attack by the dark wizard Voldemort as a baby.
+Hermoine Granger,Female,Muggle-born,Human,1,"29, 28, 26","10"", Vine, Dragon Heartstring",One of Harry's best friends and a top student at Hogwarts School of Witchcraft and Wizardry.
+Ron Weasley,Male,Pure-Blood,Human,1,"25, 26, 27,10","14"", Willow, Unicorn Hair",Another of Harry's best friends a loyal and humorous wizard from a large family.
+Ginevra Weasley,Female,Pure-Blood,Human,1,"28, 26,10","N/A, Yew, N/A",The youngest of the Weasley siblings and Ron's younger sister known as Ginny.
+Neville Longbottom,Male,Pure-Blood,Human,1,26,"N/A, Cherry, Unicorn Hair",A shy and initially clumsy student at Hogwarts who becomes a courageous hero.
+Luna Lovegood,Female,Pure-Blood,Human,2,26,"N/A, N/A, N/A",A quirky and kind-hearted student known for her belief in magical creatures and conspiracy theories.
+Tom Riddle,Male,Half-Blood,Human,4,"32, 18","13"", Yew, Phoenix Feather",The young Voldemort before he became the Dark Lord a student at Hogwarts known for his charisma and dark tendencies.
+Draco Malfoy,Male,Pure-Blood,Human,4,"30, 31, 32,10","10"", Hawthorn, Unicorn Hair",A student from a wealthy and prejudiced family initially Harry's rival at Hogwarts.
+Severus Snape,Male,Half-Blood,Human,4,"22, 32","N/A, N/A, N/A",The complex and enigmatic Potions Master at Hogwarts with a mysterious past.
+Bellatrix Lestrange,Female,Pure-Blood,Human,4,"32, 30, 33","12"", Walnut, Dragon Heartstring",A fanatical and sadistic follower of Voldemort known for her cruelty.
+Nymphadora Tonks,Female,Half-Blood,Human,3,27,"N/A, N/A, N/A",A cheerful and talented young witch who can change her appearance at will.
+Albus Dumbledore,Male,Half-Blood,Human,1,"22, 34, 35, 36","15"", Elder, Thestral Tail Hair",The wise and powerful headmaster of Hogwarts and mentor to Harry.
+Albus Potter,Male,Half-Blood,Human,4,1,"N/A, Cherry, N/A",Harry's son a student at Hogwarts and one of the main characters in the epilogue.
+Salazar Slytherin,Male,Pure-Blood,Human,4,37,"N/A, Snakewood, Basilisk horn","Salazar Slytherin, a Hogwarts founder, esteemed cunningness and ambition, shaping the values of Slytherin House."
+Rubeus Hagrid,Male,Half-Blood,Half-Giant/Half-Human,1,22,"16"", Oak, N/A",The gentle giant groundskeeper at Hogwarts who cares for magical creatures.
+Dobby,Male,Pure-Blood,House-Elf,5,1,"N/A, N/A, N/A",A free elf who initially serves the Malfoy family and later becomes a friend of Harry.
+Alastor Moody,Male,Pure-Blood,Human,5,"22, 27","N/A, N/A, N/A",An experienced Auror and Defense Against the Dark Arts teacher at Hogwarts.
+Sirius Black,Male,Pure-Blood,Human,1,22,"15"", Reed, N/A",Harry's godfather and a member of the Order of the Phoenix wrongly imprisoned for a crime he didn't commit.
+Remus Lupin,Male,Half-Blood,Human,1,"22, 46","10"", Cypress, Unicorn Hair",A kind and knowledgeable werewolf who is one of Harry's mentors.
+Minerva McGonagall,Female,Half-Blood,Human,1,"22, 25,10","9"", Fir, Dragon Heartstring",The stern but fair Deputy Headmistress of Hogwarts and head of Gryffindor house.
+Fred Weasley,Male,Pure-Blood,Human,1,"26, 45,10","14"", N/A, N/A",One of the mischievous Weasley twins known for their pranks and humor.
+George Weasley,Male,Pure-Blood,Human,1,"26, 45,10","N/A, N/A, N/A",The other half of the Weasley twin duo also known for their joke shop.
+Lucius Malfoy,Male,Pure-Blood,Human,4,"32, 47","N/A, Elm, Dragon Heartstring",Draco's father and a prominent Death Eater supporter.
+Cedric Diggory,Male,Half-Blood,Human,3,10,"12"", Ash, Unicorn Hair",A talented and fair-minded student from Hogwarts who tragically died in the Triwizard Tournament.
+Godric Gryffindor,Male,Half-Blood,Human,1,37,"N/A, N/A, N/A","Godric Gryffindor, a Hogwarts founder, was known for his bravery and chivalry, and these qualities define Gryffindor House."
+Helga Hufflepuff,Female,Pure-Blood,Human,3,37,"N/A, N/A, N/A","Helga Hufflepuff, one of Hogwarts' founders, valued hard work, loyalty, and fair play, which are the hallmarks of Hufflepuff House."
+Rowena Ravenclaw,Female,Pure-Blood,Human,2,37,"N/A, N/A, N/A","Rowena Ravenclaw, a Hogwarts founder, prized intelligence and wisdom, embodying the ideals of Ravenclaw House."
+Ronan,Male,Pure-Blood,Centaur,5,38,"N/A, N/A, N/A",Known for his wisdom and affiliation with the Forbidden Forest.
+Narcissa Malfoy,Female,Pure-Blood,Human,4,"30, 32","N/A, N/A, N/A","Has unwavering devotion to her family, particularly her son Draco, and her affiliation with the Death Eaters."
+Myrtle Warren,Female,Muggle-born,Human,2,1,"N/A, N/A, N/A","Commonly known as Moaning Myrtle, is a Hogwarts ghost who haunts the girls' bathroom and is known for her wailing and melancholic demeanor"
+Dudley Dursley,Male,Muggle,Human,5,1,"N/A, N/A, N/A","Harry Potter's spoiled and often cruel cousin, known for his gluttony and initial hostility towards Harry."
+James Potter I,Male,Pure-Blood,Human,1,"22,10","11"", Mahagony, N/A","Was also known as Prongs, was one of Harry Potter's parents, and a skilled wizard who played a significant role in the First and Second Wizarding Wars."
+Blaise Zabini,Male,Pure-Blood,Human,4,28,"N/A, N/A, N/A",Known for his aloof demeanor and affiliation with Draco Malfoy's group.
+Barty Crouch Jr,Male,Pure-Blood,Human,5,"39, 32","N/A, N/A, N/A","Barty Crouch Jr. is a cunning and loyal Death Eater who was imprisoned in Azkaban but escaped, serving Lord Voldemort's dark agenda."
+Aurelius Dumbledore,Male,Half-Blood,Human,5,1,"N/A, Ebony, N/A",Not too much known. Also known as Credence Barebone. A character whose existence and true identity are subject to debate and mystery.
+Padma Patil,Female,Half-Blood,Human,2,26,"N/A, N/A, N/A",A twin
+Parvati Patil,Female,Half-Blood,Human,1,26,"N/A, N/A, N/A",A twin
+Pomona Sprout,Female,Pure-Blood,Human,3,1,"N/A, N/A, N/A","Professor of Herbology at Hogwarts School of Witchcraft and Wizardry and the head of Hufflepuff House, known for her expertise in magical plants and her dedication to her students."
+Gellert Grindelwald,Male,Pure-Blood,Human,5,"40, 18","15, N/A, Thestral Hair","A dark wizard who sought to establish a new order in the wizarding world, advocating for the superiority of wizards over Muggles."
+Nagini,Female,Underbeing,Human,5,1,"N/A, N/A, N/A","Nagini was aMaledictuswho became a huge, magical, diamond-patterned snake and a companion to Voldemort."
+Molly Weasley,Female,Pure-Blood,Human,1,22,"N/A, N/A, N/A","Molly Weasley is a loving and fiercely protective mother of seven children,known for her warm-hearted nature and her willingness to stand up against dark forces to protect her family."
+Ariana Dumbledore,Female,Half-Blood,Human,5,1,"N/A, N/A, N/A",A young witch who suffered a traumatic event in her childhood that left her emotionally scarred and unable to control her magic.
+Petunia Evans Dursley,Female,Muggle,Human,5,1,"N/A, N/A, N/A","Harry's aunt, who raised Harry."
+Lily Potter,Female,Muggle-born,Human,1,22,"10"", Willow, N/A","Lily Potter is Harry Potter's mother, known for her sacrificial love and her protection of Harry from Lord Voldemort's deadly curse."
+Newt Scamander,Male,Half-Blood,Human,3,1,"N/A, N/A, N/A","A renowned Magizoologist and the author of ""Fantastic Beasts and Where to Find Them,"" known for his deep affinity for magical creatures and his adventures in the wizarding world."
+Dominique Weasley,Unknown,Pure-Blood,Human,5,1,"N/A, N/A, N/A",Dominique Weasley is the middle child of Bill & Fleur Weasley
+Arthur Weasley,Male,Pure-Blood,Human,1,"22, 25","N/A, N/A, N/A",Kind-hearted and inquisitive wizard known for his fascination with Muggle inventions
+Cho Chang,Female,Half-Blood,Human,2,"26,10","N/A, N/A, N/A",Cho Chang is known for her Quidditch skills as a Seeker for the Ravenclaw team and for her brief romantic involvement with Harry Potter.
+James Potter II,Male,Half-Blood,Human,1,1,"N/A, N/A, N/A",The eldest child and first son of Harry and Ginevra Potter
+Viktor Krum,Male,Half-Blood,Human,5,"41,10","10"", Hornbeam, Dragon Heartstring",A highly skilled Quidditch player and a Seeker for the Bulgarian national Quidditch team. 
+Cormac McLaggen,Male,Pure-Blood,Human,1,28,"N/A, N/A, N/A",Known for his overconfident and sometimes arrogant personality.
+Pansy Parkinson,Female,Pure-Blood,Human,4,30,"N/A, N/A, N/A","Portrayed as snobbish, prejudiced, and often cruel towards students from other houses, particularly Gryffindor."
+Edward Lupin,Male,Half-Blood,Human,3,1,"N/A, N/A, N/A","The only child and son of the lateRemus LupinandNymphadora Tonks. He was, like his mother, aMetamorphmagus, but did not inherit his father'slycanthropy"
+Rita Skeeter,Female,Half-Blood,Human,5,42,"N/A, N/A, N/A",A reporter for theDaily Prophetwho is known for her rubbishy exposs of well-known wizards.
+Lavender Brown,Female,Pure-Blood,Human,1,26,"N/A, N/A, N/A","Particularly fond of Divination, plays a minor role in the Battle of Hogwarts."
+Olympe Maxime,Female,Half-Blood,Half-Giant/Half-Human,5,22,"N/A, N/A, N/A",The headmistress of Beauxbatons Academy of Magic and her impressive stature as a half-giantess. She is a dignified and elegant witch who represents her school at the Triwizard Tournament
